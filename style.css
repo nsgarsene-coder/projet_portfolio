@@ -166,7 +166,7 @@
   }
 
   /* Strobe effect for the h1 */
-  .strobe-effect
+  .strobe-effect {
       position: relative;
       overflow: hidden;
   }
