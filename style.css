@@ -379,7 +379,7 @@
 
   .project-image img {
       width: 100%;
-      /* Assure que l'image prend toute la largeur du conteneur */
+      
       height: 100%;
       /* Assure que l'image prend toute la hauteur du conteneur */
       object-fit: cover;
