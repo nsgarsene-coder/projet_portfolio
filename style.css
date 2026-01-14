@@ -53,7 +53,7 @@
       top: 0;
       z-index: 100;
       backdrop-filter: blur(20px);
-      background-color: rgba(18, 154, 203, 0.8);
+      background-color: rgba(11, 153, 205, 0.8);
       /* couleur de fond avec transparence changé en bleu */
   }
 
