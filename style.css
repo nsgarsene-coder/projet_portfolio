@@ -118,7 +118,7 @@
       max-width: 600px;
       margin-left: auto;
       margin-right: auto;
-      animation: identifier 3s ease-in-out infinite;
+      animation: identifier 3s infinite;
       line-height: 1.6;
       font-weight: 400;
   }
