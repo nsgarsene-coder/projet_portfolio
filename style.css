@@ -526,6 +526,10 @@
       font-size: 1.2rem;
       transition: color 0.3s;
   }
+  .social-links:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    }
 
   .footer-bottom {
       font-size: 0.85rem;
